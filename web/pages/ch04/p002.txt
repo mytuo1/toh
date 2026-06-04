@@ -1,0 +1,17 @@
+Depending on the angle of lift of the regulating organ, and in particular on its supplementary arc (see 6.3.2), escapements can be classified in three main categories:
+
+Recoil escapements
+
+There is a small recoil of the escape wheel while it is locked (see 6.7.5).
+
+Example :
+
+** verge or crown-wheel escapement (fig. 6-2).
+
+Frictional rest escapements
+
+A part of the escapement, which is attached to the regulating organ, is permanently in contact with the _ @scape wheel when the escapement is locked (see 6.7.2).
+
+a cylinder escapement (fig. 6-3).
+
+» of escapement the escape wheel and the locked during the supplementary arc made

@@ -1,0 +1,249 @@
+{
+ "title": "Theory of Horology",
+ "generated": "2026-06-04T22:41:08Z",
+ "chapters": [
+  {
+   "title": "Table of Contents",
+   "start": 0,
+   "pageCount": 3
+  },
+  {
+   "title": "Chapter 6 - Escapements",
+   "start": 3,
+   "pageCount": 30
+  }
+ ],
+ "pages": [
+  {
+   "img": "pages/ch01/p001.jpg",
+   "thumb": "pages/ch01/t001.jpg",
+   "text": "——_——————\n\nTABLE OF CONTENTS\n\n1 The Concept of Time\n\n1.1 Man and the measurement of time\n\n5 1.2 Some definitions 6 1.3 Some basic principals of astronomy g 1.4 Determining time 13\n\n1.5 Time zones 7 1.6 The calendar\n\n19 1.7 Geographical coordinates 20 2 Instruments for Measuring Time 2.1 Solar instruments 21 2.2 Time-measuring instruments involving flow 23 2.3 The history of mechanical timepieces 24 2.4 The development of electric and electronic timepieces 26 2.5 How do timepieces function 2 27 2.6 Different types of watches 28 3 The Simple Mechanical Movement 3.1 General remarks 33 3.2 The movement 34 4 The Driving Force in a Mechanical Watch 4.1 General remarks 45 4.2 The barrel and the mainspring 46 5 The Geared Transmission System 5.1 General remarks 51 5.2 Ratios for calculating the train 53 5.3 Gear trains 56 5.4 Winding train 61 5.5 Motion-work and hand-setting trains 62 5.6 The going train: running time 66 5.7 The going train: counting 68 5.8 Norms and dimensions 76 5.9 Missing wheel and pinion 87 5.10 Transmission of power by the gears 89 5.11 Methods of inspecting gears V2 5.12 Gearing faults % 6 Escapements 6.1 General remarks 9 6.2 The components of the Swiss lever escapement 101 6.3 The various functions of the Swiss lever escapement 106 6.4 Checking the escapement functions 115 6.5 Types of pallet configuration 122 6.6 Power at the escape wheel +4 = 6.7 Some other types of escapements\n\nx ial",
+   "chapter": 0,
+   "n": 1
+  },
+  {
+   "img": "pages/ch01/p002.jpg",
+   "thumb": "pages/ch01/t002.jpg",
+   "text": "",
+   "chapter": 0,
+   "n": 2
+  },
+  {
+   "img": "pages/ch01/p003.jpg",
+   "thumb": "pages/ch01/t003.jpg",
+   "text": "iam |\n\n12.5 Time\n\n12.6 The cose\n\n12.7 Winding crowns\n\n12.8 Pushpieces and correctors 12.9 Watch glasses\n\n12.10 Gaskets and cement\n\n12.11 Dials\n\n12.12 The hands\n\n12.13 Materials used for exteriors 12.14 Bracelets and their attachment\n\n13 Tribology 13.1 General remarks 13.2 Wear 13.3 Cleaning 13.4 Lubrication 13.5 Pivots 13.6 Jewels in watches\n\n14 Clockmaking\n\n14.1 General remarks\n\n14.2 Accumulator, weights 14.3 Accumulator, springs 14.4 Counting and transmission 14.5 Distribution ie 14.6 Regulation\n\n14,7 The Atmos clock Poy 14.8 The striking mechanism 5 The Electronic Watch 15.1 General remarks eas 15.2 The analogue display watch Reaahraks 15.3 Energy accumulators 15.4 Electronic circuits _ WHR 15.5 The geor tin in an lecronic watch 15.6 The stepping motor\n\n15.7 The quartz oscillator\n\n15.8 Electronic display 15.9 The mechanical quartz watch 15.10 Electrical transmission of time",
+   "chapter": 0,
+   "n": 3
+  },
+  {
+   "img": "pages/ch04/p001.jpg",
+   "thumb": "pages/ch04/t001.jpg",
+   "text": "Energy source Y Principle Energy accumulator The purpose of the escapement is to maintain and count the oscillations of the pendulum of a clock uf or the balance of a watch. Counting, transmission\n\nIn order to function, the escapement receives energy provided initially by the barrel and periodically\n\nreleases some of this driving force to replace the energy lost by the regulating organ through passive resistance (friction).\n\ny Regulation The escapement distributes energy: _ it is a distributing organ. ee Sea Display\n\nThe escapement provides a connection with the regulating organ.\n\n_ The effect of the escapement\n\nIt is important that escapements are designed | _ Such a way that they affect the regulating o little as possible. ;",
+   "chapter": 1,
+   "n": 1
+  },
+  {
+   "img": "pages/ch04/p002.jpg",
+   "thumb": "pages/ch04/t002.jpg",
+   "text": "Depending on the angle of lift of the regulating organ, and in particular on its supplementary arc (see 6.3.2), escapements can be classified in three main categories:\n\nRecoil escapements\n\nThere is a small recoil of the escape wheel while it is locked (see 6.7.5).\n\nExample :\n\n** verge or crown-wheel escapement (fig. 6-2).\n\nFrictional rest escapements\n\nA part of the escapement, which is attached to the regulating organ, is permanently in contact with the _ @scape wheel when the escapement is locked (see 6.7.2).\n\na cylinder escapement (fig. 6-3).\n\n» of escapement the escape wheel and the locked during the supplementary arc made",
+   "chapter": 1,
+   "n": 2
+  },
+  {
+   "img": "pages/ch04/p003.jpg",
+   "thumb": "pages/ch04/t003.jpg",
+   "text": "The term assortment is used for the basic parts which make up an escapement. The of a Swiss lever escapement is made up of (figs. 6-6 and 6-7):\n\nee _awheel riveted on to the escape pinion:\n\n1 tooth\n\n2 rim 3 spoke or crossings 4",
+   "chapter": 1,
+   "n": 3
+  },
+  {
+   "img": "pages/ch04/p004.jpg",
+   "thumb": "pages/ch04/t004.jpg",
+   "text": "The escape wheel\n\nThe escape wheel is riveted or pressed on to the last Pinion of the going train. The teeth are heel shaped\n\nand their working planes are defined as follows (fig. 6-8):\n\nA-B locking face B-C impulse plane\n\nB locking beak c impulse beak The pallets\n\nThe pallets are formed with two arms which are slotted to carry the two pallet jewels. The parts of these jewels are designated as follows (fig. 6-9):\n\nA-B locking face\n\nB-C impulse plane C-F back of the pallet D locking point\n\nB locking beak\n\nc impulse beak\n\n_ The pallet staff is normally pressed into the pallets (fig. 6-10). In earlier days it used to be screwed in or even riveted. In addition to the pallet jewels, the\n\nip have a lever terminating in a fork. The fork\n\nthe fork notch into which the impulse pin penetrates in order to ensure the various functions.\n\n_ two horns. ! “a block which receives the guard pin.\n\npressed into a block (fig. 6-11).\n\n' shaped component riveted tch (fig. 6-12). erpend icularly into the plane case of a single roller\n\nfig. 6-8\n\nfig. 6-9\n\nfig. 6-11",
+   "chapter": 1,
+   "n": 4
+  },
+  {
+   "img": "pages/ch04/p005.jpg",
+   "thumb": "pages/ch04/t005.jpg",
+   "text": "The roller\n\nne roller is made of steel, brass or glucydur (an u Cu, Be and Ni). It normally comprises two\n\nof yer jinked by a bush, but made in one piece (double roller). The various parts of the roller are termed as follows (fig. 6-14): A roller table B safety roller c impulse pin D crescent or passing hollow\n\nin the case of very flat movements the single roller system is used (fig. 6-15).\n\nSometimes the impulse pin is even fitted directly into the balance. In this case, part of the balance staff is machined to form the safety roller (fig. 6-16).\n\nThe roller table carries the impulse pin. A crescent or passing hollow in the rim of the safety roller allows the guard pin to pass.\n\nThe impulse pin is normally made out of synthetic ruby. Its cross section may vary, but in principle it is semicircular (fig. 6-17). It may, however, be triangular (fig. 6-18).\n\nfig. 6-15\n\n4F",
+   "chapter": 1,
+   "n": 5
+  },
+  {
+   "img": "pages/ch04/p006.jpg",
+   "thumb": "pages/ch04/t006.jpg",
+   "text": "The arrangement of the pallets\n\nThe centres of the various parts which make up the assortment may be aligned (fig. 6-19) or at an angle a, which is normally 90° (fig 6-20).\n\nCoordinates\n\nThe distances between centres (O,-O, and O,-O,) have to be calculated with great precision. The parts which make up the assortment are relatively complicated to make and precise dimensions must be applied when they are positioned in the watch.\n\nis therefore convenient to use norms to ensure a uniform quality for the manufacture of these ts (fig. 6-21). This also enables the watchto position the banking pins as well as the ispection holes on the plate with great precision.\n\ne inspection holes are for checking the functions the escape wheel with the pallet jewels and also » latter to be oiled).\n\nare said to be equidistant when the » between centres are the same.\n\ncoordinates are mainly used for with 20 or 21 teeth.\n\ni with 15 teeth are not equi-\n\nfig. 6-19\n\nfig. 6-20\n\nSiete,\n\nues\n\nal\n\n*",
+   "chapter": 1,
+   "n": 6
+  },
+  {
+   "img": "pages/ch04/p007.jpg",
+   "thumb": "pages/ch04/t007.jpg",
+   "text": "movement of the lever is restricted by sre angulet Nankings (fig. 6-22) or banking pins\n\nsolid bankings gold bankings are milled or blanked out of the plate sr directly out of the pallet cock.\n\nms LLLL dbs\n\npankings pins\n\nBn the position of the escapement on the plate, the\n\nrnd the other is called the outer banking pin (G,) (fig. 6-24).\n\nNote :\n\n«= escapement making comprises the construction and fitting of an escapement.\n\n= in certain cases it is easier to use banking pins instead of solid bankings in an escapement as small adjustments are possible with the former. € = in mechanical production the degree of precision of the parts means that various fig. 6-23 stages of escapement making are not necessary. In this case solid bankings ensure a higher degree of precision.",
+   "chapter": 1,
+   "n": 7
+  },
+  {
+   "img": "pages/ch04/p008.jpg",
+   "thumb": "pages/ch04/t008.jpg",
+   "text": "nti Roller Pallet —— Phase Ascending and descending Lock Lock Lock supplementary arcs (~ 220° to 270°) F Geometric recoil : Unlockin Unlocking (0° 15’) Be Unlocking (8) q (2° - 4) + dynamic recoil 2 (0° 0’ 15”) LM “Ue be Impulse before and Impulse Impulse be Impulse after the dead point (~ 10°) (~ 10° 30) (~ 30°) Ascending Run to the banking and descending (angle after the aay supplementary arcs wheel drops) (~ 220° to 270°) (30’- 1°)\n\ndead point is the position of equilibrium\n\nthe mainspring is not wound) of the ce or pendulum; it is the neutral point one vibration and the next.\n\nfunctions and angles apply to both r d exit pallet jewels.",
+   "chapter": 1,
+   "n": 8
+  },
+  {
+   "img": "pages/ch04/p009.jpg",
+   "thumb": "pages/ch04/t009.jpg",
+   "text": "The functions and angles are given in the order of the phases in the table (see 6.3.1) for each part.\n\nLock (fig. 6-25) Roller : «= Ascending and descending supplemen-\n\ntary arcs: angles travelled while the escape wheel and the pallets are stationary.\n\nPallets :\n\n«x The pallet lever is in contact with the banking pin.\n\nWheel :\n\nsz One tooth of the wheel is in contact with the locking plane of the pallet jewel.",
+   "chapter": 1,
+   "n": 9
+  },
+  {
+   "img": "pages/ch04/p010.jpg",
+   "thumb": "pages/ch04/t010.jpg",
+   "text": "Unlocking (tigs. 6-26 and 6-29)\n\nRoller :\n\n‘© Angle travelled while the impulse pin is in contact with the fork.\n\nPallets :\n\n\"= Angle travelled while the wheel is in contact with the locking plane of the pallet jewel.",
+   "chapter": 1,
+   "n": 10
+  },
+  {
+   "img": "pages/ch04/p011.jpg",
+   "thumb": "pages/ch04/t011.jpg",
+   "text": "Impulse (figs. 6-30 ana 6-32) Roller :\n\n«= The angle travelled while the fork is in contact with the impulse pin.\n\nPallets :\n\nss Angle travelled during the action of the wheel and the pallets on their respective impulse planes. Impulse is completed when the impulse beak of the tooth is on the impulse beak of the pallet jewel.\n\nWheel :\n\nez Angle travelled during the action of the wheel and the pallets on their respective impulse planes.",
+   "chapter": 1,
+   "n": 11
+  },
+  {
+   "img": "pages/ch04/p012.jpg",
+   "thumb": "pages/ch04/t012.jpg",
+   "text": "Safety (figs. 6-33 to 6-35)\n\nRoller :\n\nAscending and descending supplementary arcs: the angles made while the escape wheel and the pallets are still.\n\now\n\nPallets :\n\n«=  Runto the banking (A): safety angle which ensures that the impulse pin can pass through the fork and that the wheel is correctly positioned on the locking plane of the pallet jewel. This is the angle caused by the draw of the pallets (see fig. 6-42).\n\nWheel :\n\nsx Entry or exit drop (or shake): the angle travelled by the tooth between the end of the impulse and the moment the next tooth contacts the locking plane of the other pal-\n\nlet jewel.",
+   "chapter": 1,
+   "n": 12
+  },
+  {
+   "img": "pages/ch04/p013.jpg",
+   "thumb": "pages/ch04/t013.jpg",
+   "text": "Definition of various angles\n\nRoller (fig. 6-36) :\n\now\n\nw\n\now\n\nPallets :\n\now\n\nTotal angle of lift (a): angle during which the impulse pin is in contact with the lever fork during its passage between one banking pin and the next. This angle is normally between 38° and 55°.\n\nVirtual angle of unlocking: angle of total unlocking minus the run to the banking.\n\nVirtual angle of lift (3): the sum of the virtual angles of unlocking and impulse of the balance.\n\nTotal angle of lift (5): angle corresponding fig. 6-36 to the angular displacement of the lever fork between one banking pin and the next (= angle of unlocking + angle of impulse + drop + run to the banking) (fig. 6-37). This angle is normally between 12° and 20°.\n\nVirtual angle of unlocking: total angle of unlocking minus the run to the banking.\n\nVirtual angle of lift (@): the sum of the virtual angles of unlocking and impulse of the pallets (fig. 6-38).\n\nVirtual locking angle (A): angle travelled when a tooth of the wheel falls on the locking plane of the pallet jewel. It is the angle — between the locking beak of the pallet jewel and the position of the locking beak of the wheel when the latter comes int contact with the pallet jewel; the le not yet touching the ban locking angle = virtual (fig. 6-39).\n\nTotal locking angl",
+   "chapter": 1,
+   "n": 13
+  },
+  {
+   "img": "pages/ch04/p014.jpg",
+   "thumb": "pages/ch04/t014.jpg",
+   "text": "Angle of lift and supplementary are (fg. 6-40) A distinction is made between two phases of movement of the regulating organ:\n\nthe angle of lift during which the isochronism is disturbed.\n\nsx the supplementary arc.\n\nx\n\nDuring the angle of lift all the parts making up the\n\nescapement are moving, while during the supplementary arc only the regulating organ (linked to\n\nthe rollers) is moving.\n\nThe different phases of the angle of lift of the roller (fig. 6-47)\n\nstart of total unlocking start of virtual unlocking start of impulse\n\ndead point\n\nend of impulse\n\nend of run to the banking",
+   "chapter": 1,
+   "n": 14
+  },
+  {
+   "img": "pages/ch04/p015.jpg",
+   "thumb": "pages/ch04/t015.jpg",
+   "text": "Draw\n\nWhen an external force is applied to the pallets (a shock, for example) the pallet lever may move away from one or other of the banking pins (during the\n\nsupplementary arc) or it may cease to function normally (during the angle of lift)\n\nThere may therefore be contact between the tip of ; the guard pin and the edge of the safety roller, or between a horn and the impulse pin. This contact should be as brief as possible, otherwise the oscillator will no longer function properly (see 6.4. 1). :\n\n|\n\nThe purpose of draw is therefore to push the lever against the banking pins during the supplementary arc and to bring it back quickly if the watch suffers a shock.\n\nThis is achieved by angling the locking plane of the pallet jewels, which gives us the angle of draw. When pressure is applied through a tooth of the\n\nescape wheel the lever is thus returned to the banking. fig. 6-42\n\nIn effect, the force F: acting at right angles on the locking plane of the pallet jewel creates a moment of force acting at distance d, from the centre of rotation of the pallets. The effect of this moment of force returns the lever to the banking pin with a force Fe acting at distance d, (fig. 6-42).\n\nRetransmission of moments of force\n\nF, force exerted by a tooth of the escape\n\nwheel on the locking plane of the pallet [N]\n\nd, distance between the point at which the force F; is exerted and the centre of rotation of the pallets [mm]\n\nF, force exerted by the lever on the banking pin [N]\n\nd, distance between the point at which the\n\nforce F, is exerted and the centre of rotation\n\nof the pallets [mm]",
+   "chapter": 1,
+   "n": 15
+  },
+  {
+   "img": "pages/ch04/p016.jpg",
+   "thumb": "pages/ch04/t016.jpg",
+   "text": "—_ ©\n\nof draw is the angle (3) between a perpendicular to the line joining the locking beak and the centre of the pallets, and the locking plane of the pallet jewel (fig. 6-43).\n\nThe angle of draw has been defined at the locking beak of the pallet jewel. It could be defined as follows at the locking point:\n\nThe angle\n\nse the angle (a) between a perpendicular to the line joining the locking point and the centre of the pallets, and the locking plane of the pallet jewel (fig. 6-44).\n\nThe latter angle differs from the former by the angle of unlocking. It will thus be noted that the angle of draw varies during unlocking.\n\nIn effect, it is augmented at the entry pallet jewel (e) and correspondingly diminished at the exit pallet jewel (fig. 6-45).\n\nOn the entry pallet jewel we note that: B=ate\n\nWhereas on the exit pallet jewel: fig. 6-44\n\nB=a-e\n\nThe angle of draw must be greater than ti\n\nn the angle friction of ye erercle which are in oaeue Tor example, . ‘on synthetic ruby this angle would",
+   "chapter": 1,
+   "n": 16
+  },
+  {
+   "img": "pages/ch04/p017.jpg",
+   "thumb": "pages/ch04/t017.jpg",
+   "text": "c Clearance of the horn [) ; Clearance of the horn is the angle travelled when the lever moves accidentally from its Position | against a banking pin to the point where the horn comes into contact with the impulse pin.\n\nAverage clearance of the horn should equal half the\n\ntotal depth of locking (lock + run to the banking): it fig. 6-46 : Horn clearance at its extremity. must not exceed this depth, otherwise when the\n\nlever moves accidentally a tooth on the wheel could\n\nfall on to the impulse plane of a pallet jewel. In this\n\ncase, the horn would press on the pin and the move-\n\nment of the balance would be impeded, which would\n\nstop the watch. Clearance of the horn (equal at left (> and right) is measured at two fixed points at which q the action of the escapement can be checked:\n\n1 Clearance of the horn at its extremity. F This is the safety margin between the ee impulse pin and the outer extremity of the eid horn (fig. 6-46). ‘\n\nfig. 6-47 : Corner clearance.\n\n2 Corner clearance. This is the safety margin between the impulse pin and the edge formed by the notch of the fork and the horn (inner extremity of the horn = corner) (fig. 6-47).\n\nsi\n\nClearance of the guard pin\n\nClearance of the guard pin is the angle travelled by the lever when it moves accidentally from its. Position against a banking pin and the point\n\nwhere the guard pin comes into contact with the rim of the safety roller.\n\nClearance of the guard pin (fig. 6-48) should equal half the total depth of locking (lock + run to the banking). It must not be greater than this depth, otherwise if the watch suffers a shock or when the hands: are adjusted, the driving force may be interrupted and the locked tooth could fall on to the plane. In this case the guard pin would pre\n\nthe safety roller and the resulting friction V impede the movement of the balance.",
+   "chapter": 1,
+   "n": 17
+  },
+  {
+   "img": "pages/ch04/p018.jpg",
+   "thumb": "pages/ch04/t018.jpg",
+   "text": "Definitions\n\nDuring its working cycle the lever escapement produces five main sounds in the following order:\n\nUnlocking: the impulse pin against one side of the fork notch (fig. 6-49).\n\nStart of impulse by the wheel: locking beak of the tooth of the wheel against the impulse plane of the entry pallet jewel\n\n(fig. 6-50).\n\nStart of the balance impulse: the other side of the fork notch against the impulse\n\npin (fig. 6-51).\n\nEnd of drop: the escape wheel tooth drops on to the locking plane of the exit pallet\n\njewel (fig. 6-52).\n\nRun to the banking: the lever hits the banking pin (fig. 6-53).",
+   "chapter": 1,
+   "n": 18
+  },
+  {
+   "img": "pages/ch04/p019.jpg",
+   "thumb": "pages/ch04/t019.jpg",
+   "text": "mae.\n\nChecking\n\nare instruments with which the three main s of the escapement can be checked acousti-\n\nThere shock\n\ncally. These instruments record the sound made by each\n\nshock and show their intensity on an oscillogram\n\n(fig. 6-56): The “tick” of a watch is normally made up of the fol-\n\nlowing impulses:\n\nThe first sound is made by the first shock when the impulse pin touches the lever notch (fig. 6-54).\n\nThe second sound is produced when a fig, 6-54 tooth on the escape wheel falls on to the impulse plane of the pallet jewel and the lever notch catches up with the impulse pin (fig. 6-55).\n\n4+5 The third sound is the strongest. It occurs when a tooth on the escape wheel falls on to the locking plane of the pallet jewel (drop) and the pallet lever presses against the banking pin (run to the banking)\n\n(fig. 6-57).\n\n2+3",
+   "chapter": 1,
+   "n": 19
+  },
+  {
+   "img": "pages/ch04/p020.jpg",
+   "thumb": "pages/ch04/t020.jpg",
+   "text": "(6.4.3 Overbanking\n\nIn the locked position the lever is touching one or other of the banking pins.\n\nIt may happen that, if the balance is incorrectly placed in the movement, the impulse pin comes into contact with the back of the horn; the movement of the balance will thus be halted (fig. 6-58). In this case the watch will not function, but this problem can be easily solved by positioning the lever against the correct banking pin when the balance is placed in the movement.\n\nIt may also happen that a shock shifts the lever from its original position against one or other of the banking pins (fig. 6-59). Such an event tends to cause the lever to come into contact with the other banking pin too early. In this case, and if the guard pin is absent, the impulse pin will not come into contact with the notch but the back of the horn when it completes its\n\ndescending supplementary arc. The watch will stop immediately.\n\nThis fault is called overbanking. It is the moment when the impulse pin accidentally comes into contact with the back of the horn instead of the fork notch.\n\nSafety devices to avoid overbanking\n\nThe guard pin or the extremity of the fork lever formed as a solid guard serves to avoid overbanking _by coming into contact with the rim of the safety er. This happens during the supplementary arc. @ horns also serve to avoid this fault by coming with the leading edge of the impulse pin. could happen when the guard pin penetrates in the safety roller,",
+   "chapter": 1,
+   "n": 20
+  },
+  {
+   "img": "pages/ch04/p021.jpg",
+   "thumb": "pages/ch04/t021.jpg",
+   "text": "6.4.4 Stopping Stopping on the locking plane\n\n‘watch stops with a tooth on the locking plane when the escapement cannot unlock purely through the action of the balance spring.\n\nstopping on the locking plane is most likely when the watch is fully wound (M,,,, ).\n\net watches and large diameter wristwatches\n\nPock' (more than ~ 24 mm) should never stop on the locking plane. It cannot be avoided, however, that small-\n\ner watches, fully wound, may stop on the locking plane (fig. 6-60). This should never occur in small watches after they have been running for 24 hours.\n\nStopping on the impulse plane\n\nA watch is stopped on the impulse plane when it does not start automatically, after unlocking has occurred, while it is being wound (fig. 6-61). A tooth of the escape wheel presses on the impulse plane of one or other of the pallet jewels.\n\nAll watches stop on the impulse plane when the mainspring is hardly wound. After having wound the mainspring by 2 or 3 ratchet-wheel teeth a pin or a soft brush is used to move the balance until stopping on the impulse occurs. The watch is then held ‘ steadily and firmly in a horizontal position and is\n\nwound very slowly until the equilibrium of forces acting at the impulse plane is broken and. ‘ starts automatically. The following + values are acceptable:\n\n‘s _ small watches: when the v by 4 or 5 ratchet teeth the impulse plane. —\n\n\"© medium-sized watch spring is wound by",
+   "chapter": 1,
+   "n": 21
+  },
+  {
+   "img": "pages/ch04/p022.jpg",
+   "thumb": "pages/ch04/t022.jpg",
+   "text": "'6.4.5 Escapement adjusting\n\nEscapement adjusting involves correctly setting the different functions of an escapement.\n\nThe following steps are taken:\n\nSs the ie pl (division) clearances of an escapement pe 6-62 and 6-63)\n\nChecks :\n\n«x Check the height of the escape wheel and the pallet jewels (a).\n\nsx Check the clearance between the guard pin (or the guard-pin block) and the plate (b).\n\n\"= Check the clearance between the upper\n\nsurface of the pallets and the pallet cock (ce).\n\n\"© — Check the height of the guard pin and the Safety roller (a).\n\n\"= Check the clearance between the fork and the under side of the roller (e).\n\n\"= Check the clearance between the bottom of the safety roller and the balance jewel set-\n\nting (f). *= Check the clearance between the extremity ____ f the impulse pin and the guard pin (g).\n\nthe pivot jewels of the escape wheel, the balance settings in their\n\noat rh\n\nr7 wan ti",
+   "chapter": 1,
+   "n": 22
+  },
+  {
+   "img": "pages/ch04/p023.jpg",
+   "thumb": "pages/ch04/t023.jpg",
+   "text": "earance of the horn (tig. 6-65)\n\ncl\n\ncheck :\n\nthan half the total locking depth (/), adjustment =\n\ning pins. Solid banking: shift pallet jewels, —\n\nCheck : : Clearance of the guard pin (k) less than the clearance of the\n\nextremity (i).\n\nAdjustment Ms « — Adjust the length of the\n\nEntry and exit locking\n\nCheck :\n\nte Total lock (I) must to one fifth of plane (m).\n\nAdjustment : t — Adjust the po\n\nDrop, inside ai\n\no\n\nClearance of the horn (i) should be less\n\nOpen or close the distance between the bank- “",
+   "chapter": 1,
+   "n": 23
+  },
+  {
+   "img": "pages/ch04/p024.jpg",
+   "thumb": "pages/ch04/t024.jpg",
+   "text": "[815.1 Choosing a configuration\n\nIn most cases a semi-equidistant configuration is\n\nused for a Swiss lever escapement. In order to\n\nobtain the necessary configuration one should first ze a\"\n\nuse other more simple tracings used for other types of escapements.\n\nIn the case of pallets with equidistant locking the locking beaks are positioned symmetrically about the centre of the pallets. This means that the difficulty of unlocking is identical on the two levers for equal angles of lock and draw; the exit pallet im- fig. 6-70 : Equidistant locking. pulse is stronger, however, since the acting radius is\n\ngreater.\n\n«x Check : trace a radius R from the centre of the pallets O; it will pass through the locking beaks (fig. 6-70).\n\nIn the case of pallets with equidistant acting radii the centres of the pallet impulse planes are symmetrical. This means that the impulse force is identical on the two planes for equal angles of impulse and draw. Unlocking on the entry is therefore more difficult, however, since the moment of force to be _ overcome is greater on the entry pallet than the exit\n\nCheck : trace a radius R from the centre of Pallet O; it will pass through the centre ’ of both impulse planes (fig. 6-771). E\n\nsemi-equidistant pallets the symat the centre of the pallets are posithe two extremes mentioned above, distance from the locking beak and eee elo Be tern sora",
+   "chapter": 1,
+   "n": 24
+  },
+  {
+   "img": "pages/ch04/p025.jpg",
+   "thumb": "pages/ch04/t025.jpg",
+   "text": "1 Power available Bo at the escape wheel\n\ner available at the escape wheel after\n\nwe : A (Pra) can be calculated using the formula 2\n\nopposite: Key to formula\n\npower available at the escape wheel after 24 hours [W] Max Maximum torque of the mainspring [N-m]\n\nProg\n\nn _ total efficiency of the train, from the barrel to the escape pinion (~ 0,9*) [%]\n\nB ratio Of Mzg tO Max (~ 0,8) f frequency of the balance and spring [Hz] Zz escape wheel\n\np gear ratio, from the barrel to the escape pinion\n\neae iS € VW is * . NLS perce 2 | ry\n\n| J\n\not",
+   "chapter": 1,
+   "n": 25
+  },
+  {
+   "img": "pages/ch04/p026.jpg",
+   "thumb": "pages/ch04/t026.jpg",
+   "text": "The power Pr, having been calculated at the desired balance and spring frequency, the efficiency of the escapement and the coordinates can be determined using a diagram.\n\nExample :\n\n\"ean efficiency of 41% on the vertical axis corresponds to a power at the escape wheel of 1.4 x 10° W on the horizontal axis (fig 6-73).",
+   "chapter": 1,
+   "n": 26
+  },
+  {
+   "img": "pages/ch04/p027.jpg",
+   "thumb": "pages/ch04/t027.jpg",
+   "text": "ae. ate; 3\n\nthe quality pets of an escapemen The mechanical efficiency of escapements is low, Prog [10* W]\n\nbest amongst them, the lever escapement, ‘ the Pring only around 30% of the driving power\n\nitt ‘ pole aie to the regulating organ. jg due to the inertia of the mass which has to be os ; | a motion quickly, friction and various shocks. In mi ; se ; F ‘ order t0 obtall the best possible escapement it is yarn necessary: ul w to reduce the time it is in contact with the regulating organ. pe pe x to reduce friction and shocks. tl | iw to use moving parts of low mass. | «» to ensure that the functions are robust and Y/ I ; reliable. a ; zh T ‘= to have a high degree of mechanical preci- 0 10. agyee 40 1 sion in order to reduce clearances and oot safety margins to a minimum. fig. 6-74\n\nThe power Pr, and the efficiency of the escapement are fixed. A diagram which shows the moment of _ inertia of the balance as a function of the power Pro, is used to select a balance.\n\nKey (fig. 6-74)\n\nPrz, power available at the escape 24 hours [W]\n\n220° amplitude in the vertical\n\n200: amplitude in the vertical hours [°]\n\n! moment of inertia of\n\nNIHS norm 34-04 lists function of their be enables the wate @scapement.",
+   "chapter": 1,
+   "n": 27
+  },
+  {
+   "img": "pages/ch04/p028.jpg",
+   "thumb": "pages/ch04/t028.jpg",
+   "text": "During the descending supplementary arc of the balance (fig. 6-77), the discharging pallet (E), which forms part of the small roller, comes into contact with a very fine spring (A), generally made of gold, and displaces the detent (B). This in turn causes the locking pallet (C), which forms part of the detent, to unlock the tooth on the escape wheel, allowing the latter to advance one tooth.\n\nAnother tooth on the escape wheel drops on to the impulse pallet (D), which forms part of the large roller, and transmits the necessary energy for the balance to make its ascending supplementary arc.\n\nThe discharging pallet has now left the gold spring and ceased to displace the detent. The locking pallet regains its original position to lock the next tooth of the escape wheel. The balance continues to turn until it has completed its arc, whereupon it returns.\n\nDuring the subsequent descending supplementary arc of the balance, the escape wheel is locked. In effect, only the gold spring is lifted when the discharging pallet passes. It then returns immediately to its position against the detent.",
+   "chapter": 1,
+   "n": 28
+  },
+  {
+   "img": "pages/ch04/p029.jpg",
+   "thumb": "pages/ch04/t029.jpg",
+   "text": "ional rest\n\nH escapement is a type of frictional yu a it does not have pallets. The assort“ me ie comprises the escape wheel and the\n\nen A\n\ntylinder (fig. 6-78).\n\nlinder is more or less semi-circular and allows thee ape wheel teeth to enter and exit consecupre the same time it serves as a balance staff; W neretore forms part of the balance.\n\ni ly, when the \" balance oscillates continuous , wh a ed is locked there is constant friction with “ner 8 inner or outer rim of the cylinder.\n\nis gl i he triangular impulse is given by an incline on tI ve teeth acting on the /ips of the opening in the cylinder walls.\n\nThe cylinder escapement belongs to the category of\n\nfrictional rest escapements. fig. 6-78\n\nThe particular feature of this type of esca that the escape wheel teeth are pointed. fact a tiny flat surface at the tip of each tc this working surface more robust) (fig.\n\nOtherwise its functions are similar to\n\nSwiss lever escapement. In escape wheel teeth,\n\nare only on the pallet jewels. i\n\nTherefore, in this of e impulse is on coal of es",
+   "chapter": 1,
+   "n": 29
+  },
+  {
+   "img": "pages/ch04/p030.jpg",
+   "thumb": "pages/ch04/t030.jpg",
+   "text": "ve\n\nThe pin-pallet escapement ment the escape-wheel teeth\n\n‘e and a locking face. The rdened steel pins\n\nIn this type of escape! have an impulse plan pallets are small-diameter, hai ries it also i i ment are\n\nThe functions of the pin-pallet escape!\n\nsimilar to those of the Swiss lever escapement. In view of the shape of the pallet pins and the eae wheel teeth, however, the impulse is given by the\n\nwheel. This escapement also belongs to the category of detached escapements.\n\nThis is a recoil escapement which is mainly found in very old pocket watches.\n\nThe escape wheel arbor is at 90° to the balance staff (verge). The latter carries two pallets which are separated by a distance corresponding to the escape wheel diameter. The balance staff, with integral pallets, takes the place of separate pallets (fig. 6-81).\n\nAs an escape wheel tooth contacts the first pallet, thus providing the necessary impulse for the balance to oscillate, the second pallet contacts the Opposite escape wheel tooth and virtually locks it.\n\nThe escape wheel recoils slightly as the balance oscillates, repelled by the second pallet. The recoil ceases as the balance commences its oscillation\n\nthe opposite direction. in",
+   "chapter": 1,
+   "n": 30
+  }
+ ]
+}

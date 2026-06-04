@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<title>Theory of Horology</title>
+<meta name="description" content="An online flip-book edition of the Theory of Horology watchmaking textbook, with full-text search and read-aloud audiobook mode." />
+<link rel="stylesheet" href="css/book.css" />
+</head>
+<body>
+<header class="toolbar">
+  <button id="btn-contents" class="tb" title="Contents" aria-label="Contents">&#9776;</button>
+  <h1 class="title" id="book-title">Theory of Horology</h1>
+  <div class="spacer"></div>
+  <div class="search">
+    <input id="search-input" type="search" placeholder="Search the book…" aria-label="Search the book" />
+    <div id="search-results" class="search-results" hidden></div>
+  </div>
+  <button id="btn-listen" class="tb" title="Read aloud" aria-label="Read aloud">&#9658;&#9834;</button>
+  <button id="btn-thumbs" class="tb" title="Thumbnails" aria-label="Thumbnails">&#9638;</button>
+</header>
+
+<main id="stage" class="stage">
+  <button id="nav-prev" class="nav nav-prev" aria-label="Previous page">&#8249;</button>
+  <div id="book" class="book" aria-live="polite"></div>
+  <button id="nav-next" class="nav nav-next" aria-label="Next page">&#8250;</button>
+</main>
+
+<footer class="statusbar">
+  <input id="page-slider" class="page-slider" type="range" min="0" max="0" value="0" aria-label="Page" />
+  <span id="page-label" class="page-label">—</span>
+</footer>
+
+<!-- Contents drawer -->
+<aside id="contents" class="drawer" hidden>
+  <div class="drawer-head"><h2>Contents</h2><button class="tb" data-close="contents" aria-label="Close">&times;</button></div>
+  <nav id="contents-list" class="contents-list"></nav>
+</aside>
+
+<!-- Thumbnails drawer -->
+<aside id="thumbs" class="drawer drawer-wide" hidden>
+  <div class="drawer-head"><h2>Pages</h2><button class="tb" data-close="thumbs" aria-label="Close">&times;</button></div>
+  <div id="thumbs-grid" class="thumbs-grid"></div>
+</aside>
+
+<!-- Audiobook player -->
+<div id="player" class="player" hidden>
+  <button id="ab-prev" class="tb" aria-label="Previous page">&#8249;</button>
+  <button id="ab-toggle" class="tb" aria-label="Play or pause">&#10073;&#10073;</button>
+  <button id="ab-next" class="tb" aria-label="Next page">&#8250;</button>
+  <span id="ab-status" class="ab-status">Read aloud</span>
+  <label class="ab-rate">Speed
+    <input id="ab-rate" type="range" min="0.6" max="1.6" step="0.1" value="1" />
+  </label>
+  <select id="ab-voice" class="ab-voice" aria-label="Voice"></select>
+  <button class="tb" data-close="player" aria-label="Close">&times;</button>
+</div>
+
+<!-- Zoom lightbox -->
+<div id="lightbox" class="lightbox" hidden>
+  <button class="tb lightbox-close" data-close="lightbox" aria-label="Close">&times;</button>
+  <img id="lightbox-img" alt="Zoomed page" />
+</div>
+
+<div id="loading" class="loading">Loading the book…</div>
+
+<script src="js/book.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Impulse (figs. 6-30 ana 6-32) Roller :
+
+«= The angle travelled while the fork is in contact with the impulse pin.
+
+Pallets :
+
+ss Angle travelled during the action of the wheel and the pallets on their respective impulse planes. Impulse is completed when the impulse beak of the tooth is on the impulse beak of the pallet jewel.
+
+Wheel :
+
+ez Angle travelled during the action of the wheel and the pallets on their respective impulse planes.

@@ -1,0 +1,33 @@
+c Clearance of the horn [) ; Clearance of the horn is the angle travelled when the lever moves accidentally from its Position | against a banking pin to the point where the horn comes into contact with the impulse pin.
+
+Average clearance of the horn should equal half the
+
+total depth of locking (lock + run to the banking): it fig. 6-46 : Horn clearance at its extremity. must not exceed this depth, otherwise when the
+
+lever moves accidentally a tooth on the wheel could
+
+fall on to the impulse plane of a pallet jewel. In this
+
+case, the horn would press on the pin and the move-
+
+ment of the balance would be impeded, which would
+
+stop the watch. Clearance of the horn (equal at left (> and right) is measured at two fixed points at which q the action of the escapement can be checked:
+
+1 Clearance of the horn at its extremity. F This is the safety margin between the ee impulse pin and the outer extremity of the eid horn (fig. 6-46). ‘
+
+fig. 6-47 : Corner clearance.
+
+2 Corner clearance. This is the safety margin between the impulse pin and the edge formed by the notch of the fork and the horn (inner extremity of the horn = corner) (fig. 6-47).
+
+si
+
+Clearance of the guard pin
+
+Clearance of the guard pin is the angle travelled by the lever when it moves accidentally from its. Position against a banking pin and the point
+
+where the guard pin comes into contact with the rim of the safety roller.
+
+Clearance of the guard pin (fig. 6-48) should equal half the total depth of locking (lock + run to the banking). It must not be greater than this depth, otherwise if the watch suffers a shock or when the hands: are adjusted, the driving force may be interrupted and the locked tooth could fall on to the plane. In this case the guard pin would pre
+
+the safety roller and the resulting friction V impede the movement of the balance.

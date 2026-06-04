@@ -1,0 +1,7 @@
+During the descending supplementary arc of the balance (fig. 6-77), the discharging pallet (E), which forms part of the small roller, comes into contact with a very fine spring (A), generally made of gold, and displaces the detent (B). This in turn causes the locking pallet (C), which forms part of the detent, to unlock the tooth on the escape wheel, allowing the latter to advance one tooth.
+
+Another tooth on the escape wheel drops on to the impulse pallet (D), which forms part of the large roller, and transmits the necessary energy for the balance to make its ascending supplementary arc.
+
+The discharging pallet has now left the gold spring and ceased to displace the detent. The locking pallet regains its original position to lock the next tooth of the escape wheel. The balance continues to turn until it has completed its arc, whereupon it returns.
+
+During the subsequent descending supplementary arc of the balance, the escape wheel is locked. In effect, only the gold spring is lifted when the discharging pallet passes. It then returns immediately to its position against the detent.

@@ -1,0 +1,8 @@
+# Generated audiobook output (produced by tools/build_audiobook.py)
+/audiobook/
+*.wav
+*.mp3
+
+# Python cache
+__pycache__/
+*.pyc

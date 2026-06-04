@@ -1,0 +1,13 @@
+The functions and angles are given in the order of the phases in the table (see 6.3.1) for each part.
+
+Lock (fig. 6-25) Roller : «= Ascending and descending supplemen-
+
+tary arcs: angles travelled while the escape wheel and the pallets are stationary.
+
+Pallets :
+
+«x The pallet lever is in contact with the banking pin.
+
+Wheel :
+
+sz One tooth of the wheel is in contact with the locking plane of the pallet jewel.

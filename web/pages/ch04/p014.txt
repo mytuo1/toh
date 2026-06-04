@@ -1,0 +1,23 @@
+Angle of lift and supplementary are (fg. 6-40) A distinction is made between two phases of movement of the regulating organ:
+
+the angle of lift during which the isochronism is disturbed.
+
+sx the supplementary arc.
+
+x
+
+During the angle of lift all the parts making up the
+
+escapement are moving, while during the supplementary arc only the regulating organ (linked to
+
+the rollers) is moving.
+
+The different phases of the angle of lift of the roller (fig. 6-47)
+
+start of total unlocking start of virtual unlocking start of impulse
+
+dead point
+
+end of impulse
+
+end of run to the banking

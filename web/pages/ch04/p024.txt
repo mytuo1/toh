@@ -1,0 +1,21 @@
+[815.1 Choosing a configuration
+
+In most cases a semi-equidistant configuration is
+
+used for a Swiss lever escapement. In order to
+
+obtain the necessary configuration one should first ze a"
+
+use other more simple tracings used for other types of escapements.
+
+In the case of pallets with equidistant locking the locking beaks are positioned symmetrically about the centre of the pallets. This means that the difficulty of unlocking is identical on the two levers for equal angles of lock and draw; the exit pallet im- fig. 6-70 : Equidistant locking. pulse is stronger, however, since the acting radius is
+
+greater.
+
+«x Check : trace a radius R from the centre of the pallets O; it will pass through the locking beaks (fig. 6-70).
+
+In the case of pallets with equidistant acting radii the centres of the pallet impulse planes are symmetrical. This means that the impulse force is identical on the two planes for equal angles of impulse and draw. Unlocking on the entry is therefore more difficult, however, since the moment of force to be _ overcome is greater on the entry pallet than the exit
+
+Check : trace a radius R from the centre of Pallet O; it will pass through the centre ’ of both impulse planes (fig. 6-771). E
+
+semi-equidistant pallets the symat the centre of the pallets are posithe two extremes mentioned above, distance from the locking beak and eee elo Be tern sora

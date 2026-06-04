@@ -1,0 +1,29 @@
+Definition of various angles
+
+Roller (fig. 6-36) :
+
+ow
+
+w
+
+ow
+
+Pallets :
+
+ow
+
+Total angle of lift (a): angle during which the impulse pin is in contact with the lever fork during its passage between one banking pin and the next. This angle is normally between 38° and 55°.
+
+Virtual angle of unlocking: angle of total unlocking minus the run to the banking.
+
+Virtual angle of lift (3): the sum of the virtual angles of unlocking and impulse of the balance.
+
+Total angle of lift (5): angle corresponding fig. 6-36 to the angular displacement of the lever fork between one banking pin and the next (= angle of unlocking + angle of impulse + drop + run to the banking) (fig. 6-37). This angle is normally between 12° and 20°.
+
+Virtual angle of unlocking: total angle of unlocking minus the run to the banking.
+
+Virtual angle of lift (@): the sum of the virtual angles of unlocking and impulse of the pallets (fig. 6-38).
+
+Virtual locking angle (A): angle travelled when a tooth of the wheel falls on the locking plane of the pallet jewel. It is the angle — between the locking beak of the pallet jewel and the position of the locking beak of the wheel when the latter comes int contact with the pallet jewel; the le not yet touching the ban locking angle = virtual (fig. 6-39).
+
+Total locking angl

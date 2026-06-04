@@ -1,0 +1,5 @@
+The power Pr, having been calculated at the desired balance and spring frequency, the efficiency of the escapement and the coordinates can be determined using a diagram.
+
+Example :
+
+"ean efficiency of 41% on the vertical axis corresponds to a power at the escape wheel of 1.4 x 10° W on the horizontal axis (fig 6-73).

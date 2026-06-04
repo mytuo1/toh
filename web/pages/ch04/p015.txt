@@ -1,0 +1,33 @@
+Draw
+
+When an external force is applied to the pallets (a shock, for example) the pallet lever may move away from one or other of the banking pins (during the
+
+supplementary arc) or it may cease to function normally (during the angle of lift)
+
+There may therefore be contact between the tip of ; the guard pin and the edge of the safety roller, or between a horn and the impulse pin. This contact should be as brief as possible, otherwise the oscillator will no longer function properly (see 6.4. 1). :
+
+|
+
+The purpose of draw is therefore to push the lever against the banking pins during the supplementary arc and to bring it back quickly if the watch suffers a shock.
+
+This is achieved by angling the locking plane of the pallet jewels, which gives us the angle of draw. When pressure is applied through a tooth of the
+
+escape wheel the lever is thus returned to the banking. fig. 6-42
+
+In effect, the force F: acting at right angles on the locking plane of the pallet jewel creates a moment of force acting at distance d, from the centre of rotation of the pallets. The effect of this moment of force returns the lever to the banking pin with a force Fe acting at distance d, (fig. 6-42).
+
+Retransmission of moments of force
+
+F, force exerted by a tooth of the escape
+
+wheel on the locking plane of the pallet [N]
+
+d, distance between the point at which the force F; is exerted and the centre of rotation of the pallets [mm]
+
+F, force exerted by the lever on the banking pin [N]
+
+d, distance between the point at which the
+
+force F, is exerted and the centre of rotation
+
+of the pallets [mm]

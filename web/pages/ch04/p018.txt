@@ -1,0 +1,19 @@
+Definitions
+
+During its working cycle the lever escapement produces five main sounds in the following order:
+
+Unlocking: the impulse pin against one side of the fork notch (fig. 6-49).
+
+Start of impulse by the wheel: locking beak of the tooth of the wheel against the impulse plane of the entry pallet jewel
+
+(fig. 6-50).
+
+Start of the balance impulse: the other side of the fork notch against the impulse
+
+pin (fig. 6-51).
+
+End of drop: the escape wheel tooth drops on to the locking plane of the exit pallet
+
+jewel (fig. 6-52).
+
+Run to the banking: the lever hits the banking pin (fig. 6-53).

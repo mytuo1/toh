@@ -1,0 +1,15 @@
+(6.4.3 Overbanking
+
+In the locked position the lever is touching one or other of the banking pins.
+
+It may happen that, if the balance is incorrectly placed in the movement, the impulse pin comes into contact with the back of the horn; the movement of the balance will thus be halted (fig. 6-58). In this case the watch will not function, but this problem can be easily solved by positioning the lever against the correct banking pin when the balance is placed in the movement.
+
+It may also happen that a shock shifts the lever from its original position against one or other of the banking pins (fig. 6-59). Such an event tends to cause the lever to come into contact with the other banking pin too early. In this case, and if the guard pin is absent, the impulse pin will not come into contact with the notch but the back of the horn when it completes its
+
+descending supplementary arc. The watch will stop immediately.
+
+This fault is called overbanking. It is the moment when the impulse pin accidentally comes into contact with the back of the horn instead of the fork notch.
+
+Safety devices to avoid overbanking
+
+The guard pin or the extremity of the fork lever formed as a solid guard serves to avoid overbanking _by coming into contact with the rim of the safety er. This happens during the supplementary arc. @ horns also serve to avoid this fault by coming with the leading edge of the impulse pin. could happen when the guard pin penetrates in the safety roller,
