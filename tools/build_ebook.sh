@@ -74,7 +74,25 @@ build_chapter() {
   page_dir="$(mktemp -d)"
   trap 'rm -rf "${page_dir}"' RETURN
 
-  pdftoppm -png -r "${DPI}" "${src}" "${page_dir}/p" >/dev/null 2>&1
+  # Render pages to PNGs. pdftoppm is single-threaded, so split the page
+  # range into one chunk per worker and render the chunks concurrently; this
+  # turns rendering (the slowest stage at high DPI) into a parallel job. The
+  # fixed-width "-%03d" suffix keeps page files in natural sort order.
+  local pages
+  pages="$(pdfinfo "${src}" 2>/dev/null | awk '/^Pages:/{print $2}')"
+  if [[ -z "${pages}" || "${pages}" -lt 1 ]]; then
+    pdftoppm -png -r "${DPI}" "${src}" "${page_dir}/p" >/dev/null 2>&1
+  else
+    local chunk=$(( (pages + JOBS - 1) / JOBS ))
+    local start
+    for ((start = 1; start <= pages; start += chunk)); do
+      local end=$(( start + chunk - 1 ))
+      (( end > pages )) && end="${pages}"
+      pdftoppm -png -r "${DPI}" -f "${start}" -l "${end}" \
+        "${src}" "${page_dir}/p" >/dev/null 2>&1 &
+    done
+    wait
+  fi
 
   # OCR every page in parallel into matching .txt files.
   find "${page_dir}" -name 'p*.png' -print0 \
