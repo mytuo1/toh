@@ -12,19 +12,45 @@ well in an EPUB without altering the underlying content:
 
 The cleaned text is written to stdout.
 """
+import os
 import re
 import subprocess
 import sys
 
 
 def ocr(image_path: str) -> str:
-    result = subprocess.run(
-        ["tesseract", image_path, "stdout", "--psm", "1", "-l", "eng"],
-        capture_output=True,
-        text=True,
-        check=False,
-    )
-    return result.stdout
+    """Run Tesseract with a bounded run time.
+
+    Some scanned pages are dominated by large photographs/diagrams which make
+    Tesseract's automatic layout analysis (PSM 3) pathologically slow. To keep
+    the conversion tractable we cap each attempt and fall back to PSM 6 (treat
+    the page as a single uniform block, which skips full layout analysis) and,
+    failing that, return whatever was produced so the build can continue.
+    """
+    attempts = [
+        (["tesseract", image_path, "stdout", "--oem", "1", "--psm", "3", "-l", "eng"], 120),
+        (["tesseract", image_path, "stdout", "--oem", "1", "--psm", "6", "-l", "eng"], 120),
+    ]
+    # Pin Tesseract to a single OpenMP thread. The build runs one OCR process
+    # per page in parallel, so letting each process spawn its own thread pool
+    # oversubscribes the CPU and makes every page pathologically slow.
+    env = dict(os.environ, OMP_THREAD_LIMIT="1")
+    for cmd, timeout in attempts:
+        try:
+            result = subprocess.run(
+                cmd, capture_output=True, text=True, check=False,
+                timeout=timeout, env=env,
+            )
+        except subprocess.TimeoutExpired as exc:
+            partial = exc.stdout or ""
+            if isinstance(partial, bytes):
+                partial = partial.decode("utf-8", "replace")
+            if partial.strip():
+                return partial
+            continue
+        if result.stdout.strip():
+            return result.stdout
+    return ""
 
 
 def clean(text: str) -> str:
